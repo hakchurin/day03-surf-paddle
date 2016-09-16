@@ -394,15 +394,19 @@ align-items: center;
 }
 
 .b1:hover{
-  font-weight: bold;
-}
-.b2:hover{
-  font-weight: bold;
-}
-.b3:hover{
-  font-weight: bold;
+background-color: #808D98;
+font-weight: normal;
 }
 
+.b2:hover{
+  background-color: #808D98;
+  font-weight: normal;
+}
+
+.b3:hover{
+  background-color:#074E83;
+
+}
 
 aside{
   width: 25%;
