@@ -1,0 +1,534 @@
+
+
+
+
+
+
+
+
+
+
+img.popImg {
+  overflow: hidden;
+  background-size: cover;
+  min-height: 100%;
+  min-width: 100%;
+  opacity: 0.5;
+
+
+}
+
+
+
+
+img.popImg:hover {
+  opacity: 1;
+}
+
+
+.logotype {
+  width: 80%;
+margin: 0 auto;
+    margin-bottom: 7rem;
+}
+
+
+.photos {
+  display: flex;
+  width: 100%;
+}
+
+
+
+.popPost {
+  width: 25%;
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+
+
+
+body{
+  margin:0;
+  padding:0;
+}
+
+
+
+div#hero{
+  background: #1B66A8;
+height: 33rem;
+}
+
+
+.sp{
+font-size: 1rem;
+font-family: Oswald;
+text-transform: uppercase;
+margin-top: 0rem;
+}
+
+i.fa.fa-circle {
+    margin-top: 0.5rem;
+    font-size: 3rem;
+  }
+
+nav.headNav{
+  float:right;
+
+  }
+
+
+li.liHeadNav {
+  display: inline;
+}
+
+
+
+.title {
+}
+
+h1{
+      text-align: center;
+      font-size: 5.5rem;
+      font-family: Oswald;
+      color:white;
+      margin: 0;
+}
+p.foot{
+  color: white;
+  font-size: .9rem;
+      padding-left: 1rem;
+}
+p.iron {
+color:#083451;
+  text-align: center;
+font-size: 1.1rem;
+font-family: oswald;
+}
+
+
+p{
+  text-align: left;
+  font-size: 1.1rem;
+font-family: 'Open Sans', sans-serif;
+  color:#5E686F;
+
+}
+
+main {
+  width: 80%;
+margin: 0 auto;
+}
+
+
+
+h2{
+  width: 70%;
+  FONT-SIZE: 3.5rem;
+  text-transform: uppercase;
+  font-family: Oswald;
+  color: #083452;
+  display: inline-block;
+  margin: 0;
+  text-align: left;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+
+article {
+float: left;
+    width: 75%;
+        margin-top: 3rem;
+}
+
+p.date{
+  display: inline;
+}
+.articleInfo{
+  display: inline;
+text-align: center;
+}
+
+#amPic{
+  border-radius: 93%;
+height: 4vh;
+width: 2vw;
+
+}
+
+
+a#am{
+
+    color:#106DB3;
+    text-decoration: none;
+}
+
+
+
+.date{
+
+color: grey;
+text-decoration: underline;
+}
+
+#paragraph{
+  width: 70%;
+  text-align: center;
+  margin: 0;
+}
+
+p.firstP{
+      text-align: left;
+      line-height: 185%;
+      color:grey;
+}
+
+p.secondP{
+  text-align: left;
+  line-height: 200%;
+  color:grey;
+}
+
+p#thirdP{
+  text-align: left;
+  line-height: 180%;
+  color:grey;
+}
+
+blockquote{
+
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: arial;
+    color:#106DB3;
+}
+
+
+
+a.nav1{
+
+color: white;
+text-decoration: none;
+font-family: arial;
+font-size: .9rem;
+}
+
+a.nav2{
+
+  color: white;
+  text-decoration: none;
+  font-family: arial;
+  font-size: .9rem;
+}
+
+.a, .b {
+  height: 100%;
+  width: 2rem;
+  background: #5E686F;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ .c {
+  height: 100%;
+  width: 2rem;
+  background: #083452;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+a.nav3{
+
+      color: white;
+      text-decoration: none;
+      font-family: arial;
+      color:white;
+      font-size: .9rem;
+}
+.b1, .b2{
+  background:#A3B3BF;
+height: 2rem;
+    margin-right: 2rem;
+    display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+.b3{
+  background:#106DB3;
+height: 2rem;
+    margin-right: 2rem;
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.b1:hover{
+  font-weight: bold;
+}
+.b2:hover{
+  font-weight: bold;
+}
+.b3:hover{
+  font-weight: bold;
+}
+
+
+aside{
+  width: 25%;
+      float: right;
+margin-top: 3rem;
+      margin: 11px,13px,5px,4px;
+}
+
+img#asideImg1{
+  border-radius: 60%;
+height: 13vh;
+width: 8vw;
+
+}
+a{
+      padding-right: .5rem;
+          margin-left: 0.5rem;
+}
+
+
+a.search{
+      text-decoration: none;
+      color:#083451;
+      font-family: oswald;
+
+}
+a.about{
+      text-decoration: none;
+      color:#083451;
+      font-family: oswald;
+
+}
+
+h4{
+  border-radius: 60%;
+    text-align: center;
+      font-family: oswald;
+      letter-spacing: 1.5px;
+      color:#106DB3;
+}
+
+
+nav#socialMedia{
+  border-radius: 60%;
+  font-size: .8rem;
+  font-family: oswald;
+  text-align: center;
+}
+
+a#twitter{
+  text-decoration: none;
+padding: .5rem;
+color:grey;
+}
+
+a#facebook{
+  text-decoration: none;
+padding: .5rem;
+color:grey;
+}
+
+a#instagram{
+  text-decoration: none;
+padding: .5rem;
+color:grey;
+}
+img#asideImg2{
+
+    width: 100%;
+      height: 19rem;
+      margin-top: 2rem;
+
+}
+.author {
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+p#aside{
+  text-align: left;
+  float: right;
+
+}
+
+h3#sidebar{
+    font-family: oswald;
+    color:#083452;
+
+}
+
+p#asideP{
+  text-align: left;
+  font-size: 1rem;
+  color: grey;
+}
+
+a#about{
+  color: grey;
+  float: right;
+  font-family: sans-serif;
+}
+
+span{
+  color:#808087;
+}
+
+.sidebar{
+    margin-top: 3rem;}
+
+.bottomimages img{
+    width:24%;
+        height: 20rem;
+        width: 27.9%;
+height: 20rem;
+margin-left: -2.3rem;
+background-color: rgba(73, 155, 234, 0.55));
+
+}
+
+.popPost h3{
+  margin-top: 16rem;
+position: absolute;
+color:#083452;
+font-size: 1.5rem;
+font-family: oswald;
+z-index: 1;
+    padding-left: 1rem;
+}
+
+
+h3#i1{
+  margin-top: -4rem;
+      position: absolute;
+      color: #083452;
+      font-family: oswald;
+      font-size: 2rem;
+      margin-left: -2rem;
+}
+
+h3#i2{
+  margin-top: -4rem;
+      position: absolute;
+      margin-left: 29rem;
+      color: #083452;
+      font-family: oswald;
+      font-size: 2rem;
+      margin-left: 17rem;
+}
+
+h3#i3{
+  margin-top: -5rem;
+  position: absolute;
+  margin-left: 35rem;
+  color: #083452;
+  font-size: 1.5rem;
+  width: 14rem;
+  font-family: oswald;
+}
+
+h3#i4{
+  margin-top: -4rem;
+  margin-left: 53rem;
+  position: absolute;
+  color: #083452;
+  font-family: oswald;
+  font-size: 2rem;
+}
+
+img#logo{
+  border-radius: 83%;
+      height: 3rem;
+
+}
+
+nav.navigation{
+
+color:white;
+    text-decoration: none;
+    font-family: oswald;
+}
+
+
+.footInfo {
+      display: flex;
+}
+
+nav.navbar1{
+      display: flex;
+}
+div#iron{
+  font-family: oswald;
+  font-size: .9rem;
+  display: flex;
+  align-items: center;
+  color: white;
+  display: flex;
+justify-content: space-between;
+}
+
+footer.footer{
+  background: #083452;
+height: 5rem;
+padding-top: 2rem;
+padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+.navigation a{
+  color:white;
+  text-decoration: none;
+      border-right: solid #FFF 1px;
+
+}
+
+.secH1 {
+  margin-top: 3.5rem;
+
+}
+
+#popular{
+  text-align: center;
+font-size: 5.5rem;
+font-family: Oswald;
+color: #083452;
+}
+
+i.fa.fa-comment{
+      color: white;
+}
+
+i.fa.fa-cloud{
+
+    color: white;
+}
+
+i.fa.fa-share-square{
+
+   color: white;
+
+}
